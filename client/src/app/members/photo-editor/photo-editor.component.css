@@ -1,3 +1,7 @@
 .nv-file-over {
     border: dotted 3px red;
 }
+
+button {
+    margin-right: 10px;
+}
